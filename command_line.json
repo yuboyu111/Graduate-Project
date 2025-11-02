@@ -1,0 +1,8 @@
+{
+    "defaut":"true",
+    "rses":"false",
+    "mode":"TIME",
+    "timespan":10000,
+    "countnum":20000,
+    "isRBorGB":"true"
+}

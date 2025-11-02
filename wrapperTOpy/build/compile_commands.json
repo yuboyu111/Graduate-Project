@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/DVS.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/src/DVS.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/src/DVS.cpp",
+  "output": "CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/DVS.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/DataDecoder.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/src/DataDecoder.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/src/DataDecoder.cpp",
+  "output": "CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/DataDecoder.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/DataReceiver.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/src/DataReceiver.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/src/DataReceiver.cpp",
+  "output": "CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/DataReceiver.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/libcyusb.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/src/libcyusb.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/src/libcyusb.cpp",
+  "output": "CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/src/libcyusb.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/modules/DefaultModule.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/modules/DefaultModule.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/modules/DefaultModule.cpp",
+  "output": "CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/modules/DefaultModule.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/modules/RSES.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/modules/RSES.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/modules/RSES.cpp",
+  "output": "CMakeFiles/DVS.dir/home/yu/in/DVS/Camera_4_commerial/modules/RSES.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/pic.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/pic.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/pic.cpp",
+  "output": "CMakeFiles/DVS.dir/pic.cpp.o"
+},
+{
+  "directory": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/build",
+  "command": "/usr/bin/c++ -DDVS_EXPORTS -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../include -I/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/../wrapperTOpy -isystem /usr/local/include/opencv4 -isystem /home/yu/anaconda3/envs/LPRNet/include/python3.9 -std=gnu++17 -fPIC -fvisibility=hidden -flto -fno-fat-lto-objects -o CMakeFiles/DVS.dir/wrapper.cpp.o -c /home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/wrapper.cpp",
+  "file": "/home/yu/in/DVS/Camera_4_commerial/wrapperTOpy/wrapper.cpp",
+  "output": "CMakeFiles/DVS.dir/wrapper.cpp.o"
+}
+]
