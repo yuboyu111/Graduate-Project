@@ -1,3 +1,0 @@
-/home/yu/in/DVS/Camera_4_commerial/build/CMakeFiles/camera.dir
-/home/yu/in/DVS/Camera_4_commerial/build/CMakeFiles/edit_cache.dir
-/home/yu/in/DVS/Camera_4_commerial/build/CMakeFiles/rebuild_cache.dir
